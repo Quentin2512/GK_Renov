@@ -8,4 +8,5 @@
 
 require_once dirname(__FILE__).'/GkRenov.php';
 $gk = new GkRenov();
-$gk->photoCarInBdd();
+//$gk->photoCarInBdd();
+$gk->creatCar();
